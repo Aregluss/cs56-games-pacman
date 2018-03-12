@@ -15,6 +15,8 @@ Pac-Man game, starting with code from http://zetcode.com/tutorials/javagamestuto
 * Levels are editable by running the PacMan level editor that can be invoked with ``ant run-editor``.
 
 ![Image of Project Layout](https://github.com/UCSB-CS56-Projects/cs56-games-pacman/blob/master/Project-Layout.png)
+![Image of Ghost behavior](https://github.com/UCSB-CS56-Projects/cs56-games-pacman/blob/master/Ghosts.png)
+
 
 **How to Run**
 * For normal running (serialized file saved as "pacmanLeaderboard.ser"): ``ant run``.
